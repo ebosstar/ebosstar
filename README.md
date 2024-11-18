@@ -8,3 +8,10 @@ my pronounces are she/her. i am 18 years old! i am living in Turkiye.
 ebosstar/ebosstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+cout << "hello"<<endl;
+
